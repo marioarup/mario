@@ -45,3 +45,4 @@ branch commit 2
 branch commit 3
 
 master commit 1
+master commit 2
