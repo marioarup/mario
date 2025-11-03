@@ -1,0 +1,261 @@
+[33mcommit 5d81ca95f80e2aa13f52ef7413c4f2d1388d3220[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtest_branch[m[33m, [m[1;31morigin/test_branch[m[33m)[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Mon Nov 3 22:05:21 2025 +0000
+
+    adding aaaaaaaaa
+
+[33mcommit ca1d142b0d05da9b9bf5638d0009cd371718083a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Thu Aug 28 09:41:22 2025 +0100
+
+    master commit 5
+
+[33mcommit 45808dc246bd9c26ee6b9f45f4c8a549b6d97942[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Thu Aug 28 09:41:06 2025 +0100
+
+    master commit 4
+
+[33mcommit d99dd761e947a941d18b1a903b8f3d5933af64c6[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Wed Aug 27 18:17:22 2025 +0100
+
+    master commit 3...
+
+[33mcommit a97178812a52fa0203ecf17e6e8702ace67b8350[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Wed Aug 27 17:56:08 2025 +0100
+
+    master commit 2...
+
+[33mcommit b31df7a332d62c8b28d265ad75ba597c6d926305[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Wed Aug 27 17:55:43 2025 +0100
+
+    master commit 1...!
+
+[33mcommit f583cc054719ac826ccfd4928cad62dbde2d3b54[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Wed Aug 27 16:43:02 2025 +0100
+
+    Branch commit 3...
+
+[33mcommit fac99eebe801ec035fbfb7adbc3937f19e704aea[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Wed Aug 27 16:42:39 2025 +0100
+
+    Branch commit 2...
+
+[33mcommit f251378064cad39be9e63d7e601c71b143dae87a[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Wed Aug 27 16:41:40 2025 +0100
+
+    Branch commit 1...
+
+[33mcommit a4da0baf7c005b2ea7045a5b56ed9daa91816deb[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sun Aug 24 23:13:13 2025 +0100
+
+    fixing case22222
+
+[33mcommit dd343c0094554b24cbf85c638365028248322e6c[m
+Merge: f3aa1bc 510ae6f
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sun Aug 24 23:08:52 2025 +0100
+
+    Merge branch 'case12345'
+
+[33mcommit 510ae6f9bea65d0706f8c20332293d4324b45f0a[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sun Aug 24 23:08:27 2025 +0100
+
+    Fixing bug 12345
+
+[33mcommit f3aa1bcd3041077f7d6c2f6be039a34f102c3d04[m
+Merge: 747c8a3 d92bafe
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sun Aug 24 22:57:18 2025 +0100
+
+    Merge branch 'branch2'
+
+[33mcommit d92bafe40e97a0349e9c29495b4ef79b95f29c32[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sun Aug 24 22:35:40 2025 +0100
+
+    changes in branch2
+
+[33mcommit 747c8a36ecfb59a61eb8bb7cae137d0e977f96c6[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sun Aug 24 22:34:50 2025 +0100
+
+    d, e and f
+
+[33mcommit 42a00141f6c519e238a46553f51531ab363281bd[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sun Aug 24 22:31:44 2025 +0100
+
+    Changes in mybranch
+
+[33mcommit 55f06d387b5fdd8233a849c414d3cd75a4851c85[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sun Aug 24 19:53:56 2025 +0100
+
+    Let's start again
+
+[33mcommit 2fb701c1361c7e3fb5b1a1ac078f02d3b50c86c2[m
+Merge: 4c3b098 c5bee57
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sun Aug 24 19:52:40 2025 +0100
+
+    Merge branch 'master' of https://github.com/marioarup/mario
+    
+    # Conflicts:
+    #       file1.txt
+
+[33mcommit c5bee5798dbdd158d27cabef3d388637bde8c101[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sun Aug 24 11:59:21 2025 +0100
+
+    Adding in Peter's
+
+[33mcommit 4c3b098d9dc485309def8e6e5ca0f86b17704e71[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sat Aug 23 21:32:55 2025 +0100
+
+    adding changes in main
+
+[33mcommit 0181b8ee351a8025de9fbf776959d4090da7dd71[m
+Merge: a58edda 6260ce1
+Author: Mario Mata <164899986+marioarup@users.noreply.github.com>
+Date:   Sat Aug 23 21:21:26 2025 +0100
+
+    Merge pull request #3 from marioarup/branch2
+    
+    adding hola
+
+[33mcommit 6260ce19dd1e2cc1654dfcf0e11bf6e600e356de[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sat Aug 23 21:20:28 2025 +0100
+
+    adding hola
+
+[33mcommit a58eddae2c5aa869248a3aff05296797ce3322fa[m
+Merge: b05e3b9 2568d10
+Author: Mario Mata <164899986+marioarup@users.noreply.github.com>
+Date:   Sat Aug 23 19:10:08 2025 +0100
+
+    Merge pull request #2 from marioarup/branch2
+    
+    Branch2
+
+[33mcommit 2568d10b00b665e045bbe6f991add909b32784ff[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sat Aug 23 19:07:20 2025 +0100
+
+    the work of today
+
+[33mcommit 363be4c98b120ee0cff1f010be37a58167ff238e[m
+Merge: b05e3b9 fcd93c3
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sat Aug 23 19:00:06 2025 +0100
+
+    Merge branch 'mariobranch1' of https://github.com/marioarup/mario
+
+[33mcommit b05e3b90ef4ebb9e0533bdd841b563d66b10045a[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sat Aug 23 12:05:39 2025 +0100
+
+    and more
+
+[33mcommit 661ecad0fb76fe6fde124896de5a2ab0f7bcfe28[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sat Aug 23 11:42:33 2025 +0100
+
+    More changes
+
+[33mcommit e9f4466e2e8387efd48bb753304f813ca1ea62ae[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sat Aug 23 11:39:17 2025 +0100
+
+    Changes in Git only
+
+[33mcommit fcd93c359848ce4c940e0ab0091032fabfabaf3f[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sat Aug 23 10:59:32 2025 +0100
+
+    Message *9
+
+[33mcommit 9db65cd35ffccc37835cbee66b6d28670db34d65[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sat Aug 23 10:59:05 2025 +0100
+
+    Lines between a and b
+
+[33mcommit f8cb6fae78c56080578095620ada6b11066f2a2c[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sat Aug 23 10:58:23 2025 +0100
+
+    Message *5 to *8
+
+[33mcommit 3a3f6eca8fe1848c8df7421aad27a7dbaed321ad[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sat Aug 23 10:57:54 2025 +0100
+
+    Message *1 to *4
+
+[33mcommit d05c7b83f6b5c7bc8953b4ddcf384f062ee844c5[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sat Aug 23 10:40:31 2025 +0100
+
+    Lines g and h
+
+[33mcommit cc838ee5623aa12f1658066d7f2a39d05b612a5f[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sat Aug 23 10:40:14 2025 +0100
+
+    Lines e and f2
+
+[33mcommit 3aa5b013fc27ebe165173fd0f389e2b097cbc6a6[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sat Aug 23 10:40:01 2025 +0100
+
+    Lines c and d
+
+[33mcommit ff65befc24691df32ff1e4bacc3ea18e9da785cf[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Sat Aug 23 10:39:37 2025 +0100
+
+    Lines a and b
+
+[33mcommit 4e980cd1926118b55acf8ab5378687901e8e442e[m
+Merge: 9082c00 bcf9aa8
+Author: marioarup <164899986+marioarup@users.noreply.github.com>
+Date:   Fri Aug 22 12:06:05 2025 +0100
+
+    Merge pull request #1 from marioarup/mariobranch1
+    
+    Mariobranch1
+
+[33mcommit bcf9aa8bad7e937da9885e346f4d1fe0d7f24af9[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Fri Aug 22 11:58:51 2025 +0100
+
+    My second commit in branch
+
+[33mcommit c294670b61985155e530d4a728d86f05b84ed6e0[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Fri Aug 22 11:58:08 2025 +0100
+
+    My first commit in branch
+
+[33mcommit 9082c001b9095519d38753b8eb763217c9f45cec[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Fri Aug 22 11:41:01 2025 +0100
+
+    Adding 11111111
+
+[33mcommit e493fa91c0da329454a23b5f2f0472aaae490aa3[m
+Author: Mario Mata <mario.mata@arup.com>
+Date:   Fri Aug 22 11:10:49 2025 +0100
+
+    My first commit
